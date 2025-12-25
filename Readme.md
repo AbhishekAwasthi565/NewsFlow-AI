@@ -27,7 +27,7 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the repository** (or save your script):
     ```bash
     git clone [https://github.com/AbhishekAwasthi565/NewsFlow-AI](https://github.com/AbhishekAwasthi565/NewsFlow-AI)
-    cd news-video-studio
+    cd NewsFlow-AI-main
     ```
 
 2.  **Install Python Dependencies:**
